@@ -21,7 +21,7 @@ This is something made up by a Chinese elementary school student, all readme con
 
 1.Put the .mp4 video file in the same directory as the script and rename it to "mp4.mp4"
 
-2、运行 | run
+2、执行 | execute
 
   sh toamv.sh
   
