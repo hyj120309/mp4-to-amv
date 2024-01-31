@@ -1,5 +1,6 @@
 # mp4-to-amv
 一个将.mp4视频文件转为.amv视频文件的脚本 | A script that converts a .mp4 video file to an .amv video file
+这是一个给分辨率为320*240的mp4播放器使用的程序 | This is a program for MP4 players with a resolution of 320*240
 
 ## 翻译 | Translation
 
