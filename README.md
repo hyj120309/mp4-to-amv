@@ -14,7 +14,7 @@ This is something made up by a Chinese elementary school student, all readme con
 
 首先，clone这个仓库： | First of all, clone this repository:
 
-  git clone https://github.com/hyj120309/mp4-to-amv.git
+`git clone https://github.com/hyj120309/mp4-to-amv.git`
   
 ### 运行 | run
 
