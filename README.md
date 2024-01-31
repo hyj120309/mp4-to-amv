@@ -24,7 +24,7 @@ This is something made up by a Chinese elementary school student, all readme con
 
 2、执行 | execute
 
-  sh toamv.sh
+`sh toamv.sh`
   
 3、将会在同目录下生成 “amv.amv“
 
